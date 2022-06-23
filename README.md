@@ -1,5 +1,9 @@
 # Machine Learning. Basic
+
 ## Description
-Machine learning. Basic by Otus. 
-## Home works 
-- [hw1](./hw/homework_1.ipynb)
+
+Machine learning. Basic by Otus.
+
+## Home works
+
+- [hw1](./hw/homework_1-62081-2ba3d5.ipynb)
