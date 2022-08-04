@@ -6,8 +6,7 @@ import pytest
 
 def test_car_without_engine():
     c = Car(1000, 10, 10)
-    with pytest.raises(AttributeError):
-        c.engine
+    assert c.engine == None
 
 
 def test_car_set_engine():
